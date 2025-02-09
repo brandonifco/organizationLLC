@@ -124,12 +124,12 @@
 
 **Article 4: Business Purpose and Powers**
 
-**4.1 Business Purpose:** The purpose of the Company is to acquire, develop, and manage property to foster a sustainable, faith-rooted community, guided by [mention specific faith or values if desired, or remove "faith-rooted" if too limiting legally]. This includes, but is not limited to:
+**4.1 Business Purpose:** The purpose of the Company is to acquire, develop, and manage property to foster a sustainable, faith-rooted community, guided by the founding principles of inclusivity, sustainability, mutual understanding and security. This includes, but is not limited to:
 	* Fostering agricultural self-sufficiency;
 	* Developing renewable energy initiatives;
 	* Creating shared living spaces;
 	* Operating hospitality ventures such as short-term rentals and educational retreats; and
-	* Engaging in activities that promote community building and education related to sustainability and [faith/values].
+	* Engaging in activities that promote community building and education related to the founding principles.
 
 **4.2 Powers:** The Company shall have all powers necessary or convenient to carry out the purposes for which it is formed, and to engage in any lawful act or activity for which limited liability companies may be formed under the laws of [State of Formation].
 
@@ -139,7 +139,7 @@
 
 **5.1 Member-Managed Company:** The management of the Company is reserved to the Members. Each Member shall have the right and responsibility to participate in the management and control of the Company.
 
-**5.2 Decisions Requiring Member Approval:** Unless otherwise specifically provided in this Agreement, all decisions regarding the management and operation of the Company shall require the unanimous approval of the Members. [ *Consider adding exceptions to unanimous approval here or in a separate subsection for efficiency, or if you want to use supermajority for certain decisions.* ]
+**5.2 Decisions Requiring Member Approval:** Unless otherwise specifically provided in this Agreement, all decisions regarding the management and operation of the Company shall require the unanimous approval of the Members. 
 
 **5.3 Authority of Members:** In their management of the Company, the Members shall have the authority to take all actions and make all decisions on behalf of the Company consistent with the Business Purpose and this Operating Agreement.
 
@@ -160,6 +160,12 @@
 **6.5 Additional Capital Contributions:** Any subsequent Capital Contributions required or desired by the Company shall be determined and approved by the unanimous agreement of the Members. The terms and conditions of such additional Capital Contributions shall be documented in writing and agreed upon by all Members.
 
 **6.6 Capital Accounts:** A separate Capital Account shall be maintained for each Member in accordance with applicable tax regulations. The Capital Account of each Member shall reflect their Capital Contributions, allocations of profits and losses, and distributions.
+
+**6.7 Member Commitments and Expectations:** 
+    **(a) Mutual Understanding of Commitments:**  To foster a spirit of collaboration and shared purpose, the Members acknowledge that a mutual understanding of each Member's intended contributions, areas of focus, and expectations for their involvement is beneficial for the Company's success and community harmony.
+    **(b) Schedule of Member Commitments and Expectations:**  Each Initial Member's anticipated commitments, areas of contribution, and expectations regarding their role and involvement with the Company are briefly outlined in **Schedule B – Member Commitments and Expectations** attached hereto.  This Schedule is intended to document the initial mutual understanding among the Founding Members at the time of formation.
+    **(c) Nature of Commitments:** The statements in Schedule B are intended to reflect each Member's good faith intentions and anticipated areas of contribution to the Company.  Schedule B is not intended to create legally binding obligations beyond the specific provisions of this Operating Agreement, nor is it intended to quantify or legally enforce specific levels of effort, time commitment, or particular outcomes.  It serves as a reference point for mutual understanding and open communication among the Members regarding their envisioned roles and contributions to the Company's mission.
+    **(d) Ongoing Communication and Adjustment:** The Members agree to maintain open communication regarding their contributions, evolving roles, and any adjustments to their expectations as the Company develops and their circumstances may change. Schedule B may be reviewed and updated by unanimous agreement of the Members from time to time, but such updates are not required.
 
 **Article 7: Term, Dissolution, and Periodic Review**
 
@@ -295,6 +301,40 @@ _________________________
 | ...            	| ...              	| ...                                                     	| ...      	|
 
 *Attach appraisals, deeds, or other supporting documentation as needed for non-cash contributions.* ]
+
+**Schedule B – Member Commitments and Expectations**
+
+[ *This schedule is intended to be a brief, non-legally binding outline of each member's initial understanding of their role and anticipated contributions.  It's for internal mutual understanding and communication.* ]
+
+For each Member, include brief statements addressing the following (examples provided, customize for each member):
+
+* **Member Name:** [MEMBER NAME 1]
+    * **Anticipated Areas of Contribution:** (e.g., "Primary focus on agricultural development and land management. Will contribute expertise in sustainable farming practices and property maintenance.")
+    * **Expected Time Commitment:** (e.g., "Anticipate dedicating approximately [Number] hours per week on average, with flexibility depending on seasonal needs and project demands.")
+    * **Specific Skills/Resources to Contribute:** (e.g., "Brings experience in permaculture design, carpentry skills, access to a network of local farmers.")
+    * **Expectations for Involvement:** (e.g., "To be actively involved in decision-making related to land use and agricultural projects.  To participate in regular community work days and contribute to educational programs related to sustainable agriculture.")
+
+* **Member Name:** [MEMBER NAME 2]
+    * **Anticipated Areas of Contribution:** (e.g., "Focus on renewable energy initiatives and infrastructure development.  Will contribute expertise in solar panel installation and energy system design.")
+    * **Expected Time Commitment:** (e.g., "Will dedicate time on a project basis as renewable energy projects are developed and implemented.  Anticipate more intensive involvement during project phases.")
+    * **Specific Skills/Resources to Contribute:** (e.g., "Licensed electrician, experience with grant writing for renewable energy projects, network of renewable energy suppliers.")
+    * **Expectations for Involvement:** (e.g., "To lead the planning and implementation of renewable energy projects. To ensure the Company's infrastructure is energy-efficient and sustainable. To educate members and the wider community on renewable energy.")
+
+* **Member Name:** [MEMBER NAME 3]
+    * **Anticipated Areas of Contribution:** (e.g., "Focus on community building, hospitality ventures, and educational retreats. Will contribute expertise in event planning and hospitality management.")
+    * **Expected Time Commitment:** (e.g., "Will dedicate time to developing and operating hospitality offerings, managing short-term rentals and retreats, and organizing community events.")
+    * **Specific Skills/Resources to Contribute:** (e.g., "Experience in hospitality management, event coordination, marketing and communications skills.")
+    * **Expectations for Involvement:** (e.g., "To develop and manage successful hospitality ventures that generate income for the Company and serve the community. To foster a welcoming and inclusive environment for members and guests. To organize educational programs and retreats aligned with the Company's mission.")
+
+* **Member Name:** [MEMBER NAME 4]
+    * **Anticipated Areas of Contribution:** (e.g., "Focus on financial management, administration, and long-term planning. Will contribute expertise in bookkeeping, financial forecasting, and strategic planning.")
+    * **Expected Time Commitment:** (e.g., "Will dedicate time regularly to financial administration, budgeting, and long-term strategic planning.  Time commitment will be ongoing but may fluctuate.")
+    * **Specific Skills/Resources to Contribute:** (e.g., "CPA, experience in non-profit financial management, strategic planning and organizational development skills.")
+    * **Expectations for Involvement:** (e.g., "To ensure sound financial management and long-term sustainability of the Company. To contribute to strategic planning and governance. To provide financial reporting and analysis to the Members.")
+
+[ *Add or remove member sections as needed. Encourage members to be concise but specific in outlining their initial understandings.  This is meant to be a living document that can be revisited and discussed, not a rigid contract within the Operating Agreement itself.* ]
+
+**--- END OF SCHEDULE B ---**
 
 
 **--- END OF OPERATING AGREEMENT ---**
