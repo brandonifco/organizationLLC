@@ -172,11 +172,11 @@
 **7.2 Periodic Review:** A comprehensive review meeting shall be held at least every five (5) years, commencing [Date of First Review - 5 years from formation or current date], to assess the Company’s progress and long-term sustainability. Informal reviews may be held more frequently as deemed necessary by the Members.
 
 **7.3 Scope of Review:** The comprehensive review shall include, but not be limited to:
-	**(a) Financial Assessment:** Review of the Company’s financial condition, including income, expenses, profitability, cash flow, and reserves.
-	**(b) Infrastructure & Land Use Review:** Evaluation of the condition of Company property, maintenance requirements, capital improvement needs, and potential land use adjustments or expansion.
-	**(c) Community Engagement & Membership Review:** Assessment of Member participation, roles, responsibilities, inter-member relations, and integration of new Members.
-	**(d) Mission Alignment and Values Assessment:** Evaluation of the Company's activities and progress in fulfilling its Business Purpose and adherence to its core values.
-	**(e) Long-Term Planning & Adjustments:** Review of the Company's long-term strategic plan, including necessary amendments to policies, business strategies, governance structure, and this Operating Agreement.
+	* **(a) Financial Assessment:** Review of the Company’s financial condition, including income, expenses, profitability, cash flow, and reserves.
+	* **(b) Infrastructure & Land Use Review:** Evaluation of the condition of Company property, maintenance requirements, capital improvement needs, and potential land use adjustments or expansion.
+	* **(c) Community Engagement & Membership Review:** Assessment of Member participation, roles, responsibilities, inter-member relations, and integration of new Members.
+	* **(d) Mission Alignment and Values Assessment:** Evaluation of the Company's activities and progress in fulfilling its Business Purpose and adherence to its core values.
+	* **(e) Long-Term Planning & Adjustments:** Review of the Company's long-term strategic plan, including necessary amendments to policies, business strategies, governance structure, and this Operating Agreement.
 
 **7.4 Dissolution:** The Company may be dissolved upon the unanimous written consent of the Members or upon the occurrence of other events causing dissolution under the laws of [State of Formation]. Upon dissolution, the assets of the Company shall be liquidated, and the proceeds distributed in accordance with applicable law and this Agreement, prioritizing the return of Capital Contributions to Members to the extent possible and then distributing remaining assets according to [Agreed upon distribution method – pro rata to ownership percentage, or another agreed method].
 
