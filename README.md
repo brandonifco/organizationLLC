@@ -233,9 +233,43 @@
 
 [ *Insert clauses detailing Meeting procedures: frequency, notice, quorum, minutes, action without meeting, etc. - Attorney can advise on best practices* ]
 
-**Article 14: Dispute Resolution**
+**Article 14: Community Governance and Dispute Resolution**
 
-[ *Insert clause detailing Dispute Resolution process: Mediation, Arbitration, etc. before litigation - Attorney can advise on best practices and state-specific requirements.* ]
+**14.1 Principles of Community Governance:** The Members are committed to governing the Company in a spirit of collaboration, mutual respect, and in alignment with the Company’s Business Purpose and core values. Decision-making shall, to the greatest extent possible, be consensus-based and prioritize the long-term well-being and sustainability of the community.
+
+**14.2 Open Communication and Good Faith Efforts:** Members agree to communicate openly and directly with each other to address any concerns, disagreements, or conflicts that may arise in connection with the Company’s activities or Member relations.  All Members shall act in good faith to resolve any such matters amicably and efficiently.
+
+**14.3 Informal Dispute Resolution Process:**  In the event that a disagreement or dispute arises between Members, the Members involved shall first attempt to resolve the matter informally by:
+
+    **(a) Direct Discussion:**  Initiating prompt and direct communication with each other to clearly articulate the issue, actively listen to differing perspectives, and explore mutually agreeable solutions.
+
+    **(b) Facilitated Discussion (Optional):** If direct discussion is unsuccessful, the Members may mutually agree to invite another Member or a trusted neutral party from within the community to facilitate a discussion and assist in reaching a resolution.
+
+**14.4 Mediation:** If the informal dispute resolution process under Section 12.3 is unsuccessful in resolving the matter within a reasonable timeframe (not to exceed [Number] days, unless otherwise agreed), any Member involved in the dispute may request formal mediation.
+
+    **(a) Selection of Mediator:** The Members shall jointly select a neutral and impartial mediator.  The mediator may be:
+        **(i) Another Member:**  If a Member is mutually agreed upon by the disputing parties and is willing and able to serve as mediator.
+        **(ii) External Mediator:**  A professional mediator with experience in conflict resolution, preferably with experience in community or business disputes.  The costs of an external mediator shall be shared equally by the Company or as otherwise agreed by the Members.
+
+    **(b) Mediation Process:** The mediation process shall be conducted in good faith and shall aim to facilitate a mutually acceptable resolution. The mediation shall be non-binding, unless the Members involved in the dispute subsequently agree in writing to make any mediated outcome binding.
+
+**14.5 Documentation of Agreements:** Any resolutions reached through informal dispute resolution or mediation, whether formally binding or not, should be documented in writing and agreed upon by the Members involved.  Such documented agreements may be recorded in the minutes of a Members' meeting or maintained separately for future reference.
+
+**14.6 Escalation and Ultimate Resolution:** It is the intent of the Members that disputes will be resolved through the processes outlined in Sections 12.3 and 12.4.  However, in the event that mediation is unsuccessful, and the dispute remains unresolved, the Members acknowledge that:
+
+    **(a) Continued Unanimous Consent Challenges:** Unresolved disputes may create challenges for the Company’s ability to operate effectively under the unanimous consent decision-making structure outlined in Article 5.  Members are encouraged to consider whether unresolved disputes fundamentally undermine their ability to continue working together effectively within the Company's structure and mission.
+
+    **(b) Potential for Voluntary Withdrawal:** In circumstances where disputes cannot be resolved through mediation and fundamentally impact Member relations or Company operations, Members may consider the voluntary withdrawal provisions outlined in Article 8 of this Agreement.
+
+    **(c) No Mandatory Binding Arbitration or Litigation within this Agreement:**  This Operating Agreement does not mandate binding arbitration or litigation as a required step in the internal dispute resolution process among Members.  Access to legal remedies outside of this Agreement remains available as provided by applicable law, but it is the strong preference of the Members to resolve disputes internally through good faith communication and mediation, consistent with the community-focused nature of the Company.
+
+**14.7 Governing Principles in Disputes:** In resolving disputes, Members shall be guided by the following principles:
+    **(a) Upholding the Business Purpose:**  Prioritizing solutions that best serve the Company's Business Purpose and long-term mission.
+    **(b) Community Values:** Adhering to the core values of the community, including respect, empathy, fairness, and open communication.
+    **(c) Long-Term Relationships:**  Recognizing the importance of maintaining positive and productive long-term relationships among Members for the sustainability of the Company and the community.
+    **(d) Seeking Mutually Beneficial Outcomes:**  Striving for solutions that are mutually beneficial and satisfactory to all Members involved, as much as reasonably possible.
+
+**14.8 Decisions During Dispute Resolution:**  During any dispute resolution process, the Members shall use reasonable efforts to continue to operate the Company’s business in accordance with this Operating Agreement. For time-sensitive matters requiring decisions during a dispute, the Members shall endeavor to reach temporary agreements or designate a Member or small group to make necessary interim decisions, while continuing to pursue dispute resolution.
 
 **Article 15: Governing Law**
 
