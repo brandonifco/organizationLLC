@@ -4,8 +4,6 @@
 
 ## Table of Contents
 
-[ *Automatically generated table of contents would go here in a real document for ease of navigation* ]
-
 **Article 1: Name and Formation**
 	1.1 Name
 	1.2 Formation
@@ -162,10 +160,10 @@
 **6.6 Capital Accounts:** A separate Capital Account shall be maintained for each Member in accordance with applicable tax regulations. The Capital Account of each Member shall reflect their Capital Contributions, allocations of profits and losses, and distributions.
 
 **6.7 Member Commitments and Expectations:** 
-    **(a) Mutual Understanding of Commitments:**  To foster a spirit of collaboration and shared purpose, the Members acknowledge that a mutual understanding of each Member's intended contributions, areas of focus, and expectations for their involvement is beneficial for the Company's success and community harmony.
-    **(b) Schedule of Member Commitments and Expectations:**  Each Initial Member's anticipated commitments, areas of contribution, and expectations regarding their role and involvement with the Company are briefly outlined in **Schedule B – Member Commitments and Expectations** attached hereto.  This Schedule is intended to document the initial mutual understanding among the Founding Members at the time of formation.
-    **(c) Nature of Commitments:** The statements in Schedule B are intended to reflect each Member's good faith intentions and anticipated areas of contribution to the Company.  Schedule B is not intended to create legally binding obligations beyond the specific provisions of this Operating Agreement, nor is it intended to quantify or legally enforce specific levels of effort, time commitment, or particular outcomes.  It serves as a reference point for mutual understanding and open communication among the Members regarding their envisioned roles and contributions to the Company's mission.
-    **(d) Ongoing Communication and Adjustment:** The Members agree to maintain open communication regarding their contributions, evolving roles, and any adjustments to their expectations as the Company develops and their circumstances may change. Schedule B may be reviewed and updated by unanimous agreement of the Members from time to time, but such updates are not required.
+   * **(a) Mutual Understanding of Commitments:**  To foster a spirit of collaboration and shared purpose, the Members acknowledge that a mutual understanding of each Member's intended contributions, areas of focus, and expectations for their involvement is beneficial for the Company's success and community harmony.
+   * **(b) Schedule of Member Commitments and Expectations:**  Each Initial Member's anticipated commitments, areas of contribution, and expectations regarding their role and involvement with the Company are briefly outlined in **Schedule B – Member Commitments and Expectations** attached hereto.  This Schedule is intended to document the initial mutual understanding among the Founding Members at the time of formation.
+   * **(c) Nature of Commitments:** The statements in Schedule B are intended to reflect each Member's good faith intentions and anticipated areas of contribution to the Company.  Schedule B is not intended to create legally binding obligations beyond the specific provisions of this Operating Agreement, nor is it intended to quantify or legally enforce specific levels of effort, time commitment, or particular outcomes.  It serves as a reference point for mutual understanding and open communication among the Members regarding their envisioned roles and contributions to the Company's mission.
+   * **(d) Ongoing Communication and Adjustment:** The Members agree to maintain open communication regarding their contributions, evolving roles, and any adjustments to their expectations as the Company develops and their circumstances may change. Schedule B may be reviewed and updated by unanimous agreement of the Members from time to time, but such updates are not required.
 
 **Article 7: Term, Dissolution, and Periodic Review**
 
